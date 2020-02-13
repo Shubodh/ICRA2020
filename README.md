@@ -13,6 +13,16 @@ We showcase a topological mapping framework for a challenging indoor warehouse s
 </p>
 
 
+# Code
+
+Our pipeline consists of 3 parts - each sub-folder in this repo containts code for each:
+1. Topological categorization using a convolutional neural network classifier -> Topological Classifier
+2. Predicting loop closure constraints using Multi-Layer Perceptron -> Instance Comparator
+3. Graph construction and pose graph optimization using obtained Manhattan and Loop Closure Constraints -> Pose Graph Optimizer
+
+How to use each is explained in corresponding sub-folder.
+
+
 # Citation:
  
 If you find our work useful in your research, please consider citing:
