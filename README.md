@@ -2,7 +2,7 @@
 
 Sai Shubodh Puligilla\*, Satyajit Tourani\*, Tushar Vaidya\*, Udit Singh Parihar\*, Ravi Kiran Sarvadevabhatla and K. Madhava Krishna
 
-> Links to [**Paper**]() and [**Video**]()
+> Links to [**Paper**](https://arxiv.org/abs/2002.06575) and [**Video**](https://www.youtube.com/watch?v=swYcwrjprh0)
 
 # Introduction
 

@@ -1,4 +1,4 @@
-# g2o_test #
+# pose_graph_optimizer #
 
 
 1. `Nomenclature` for `tf_label_opt.txt` and `tf_label_unopt.txt`
