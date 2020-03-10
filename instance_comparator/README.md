@@ -7,5 +7,5 @@
 #### file to run : run.py
 
 #### output is stored in out.txt. out.txt contains the true pairs detected by the MLP.
-### The visualization of the dataset tested(warehouse-1) can be done by running the following code:
-### python mlp_read.py in.txt
+#### The visualization of the dataset tested(warehouse-1) can be done by running the following code:
+#### python mlp_read.py in.txt
