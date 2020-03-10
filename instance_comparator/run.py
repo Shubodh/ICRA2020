@@ -95,7 +95,7 @@ class NeuralLinearNet(torch.nn.Module):
 Amodel = NeuralLinearNet(input_size, output_size, hl1_size, hl2_size).to(device)
 
 sys.stdout = open('out.txt','wt')
-MPObj = torch.load('./saved_models/latest_save_00030.pt').cuda()
+MPObj = torch.load('./saved_model.pt').cuda()
 idx = [0, 2, 1, 3, 4]
 for z in range(x_test.shape[0] - 1):
         mini = 1023.24142
