@@ -8,5 +8,5 @@ You will require numpy(1.14.0), torch(0.4), torchvision(0.2), python 2.7 to run 
 
 #### output is stored in out.txt. out.txt contains the true pairs detected by the MLP.
 
-## The visualization of the dataset tested(warehouse-1) can be done by running the following code:
+## The visualization of the dataset tested can be done by running the following code:
 `python mlp_read.py in.txt`
