@@ -4,7 +4,6 @@ Sai Shubodh Puligilla\*, Satyajit Tourani\*, Tushar Vaidya\*, Udit Singh Parihar
 
 > Links to [**Paper**](https://arxiv.org/abs/2002.06575) and [**Video**](https://www.youtube.com/watch?v=swYcwrjprh0)
 
-[In Progress - Code Demos will be added by first week of March]
 
 # Introduction
 
@@ -29,7 +28,12 @@ How to use each is explained in corresponding sub-folder.
  
 If you find our work useful in your research, please consider citing:
 ```
-
+@article{ puligilla2019topo, 
+author = { Puligilla, Sai Shubodh and Tourani, Satyajit and Vaidya, Tushar and Singh Parihar, Udit and Sarvadevabhatla, Ravi Kiran and Krishna, Madhava }, 
+title = { Topological Mapping for Manhattan-Like Repetitive Environments }, 
+journal = { ICRA }, 
+year = { 2020 }, 
+}
 ```
 
 # Qualitative Results:    
