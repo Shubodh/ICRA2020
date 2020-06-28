@@ -28,7 +28,7 @@ How to use each is explained in corresponding sub-folder.
  
 If you find our work useful in your research, please consider citing:
 ```
-@article{ puligilla2019topo, 
+@article{ puligilla2020topo, 
 author = { Puligilla, Sai Shubodh and Tourani, Satyajit and Vaidya, Tushar and Singh Parihar, Udit and Sarvadevabhatla, Ravi Kiran and Krishna, Madhava }, 
 title = { Topological Mapping for Manhattan-Like Repetitive Environments }, 
 journal = { ICRA }, 
