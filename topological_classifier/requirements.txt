@@ -36,4 +36,4 @@ tensorflow-estimator==1.13.0
 termcolor==1.1.0
 torch==1.1.0
 torchvision==0.2.2.post3
-Werkzeug==0.15.4
+Werkzeug==2.2.3
